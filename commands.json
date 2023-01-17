@@ -1,24 +1,3 @@
 {
-  "commands": [
-    "clear E4",
-    "flag E1",
-    "flag H4",
-    "flag G5",
-    "clear H5",
-    "flag B4",
-    "flag B5",
-    "clear A4",
-    "clear A5",
-    "clear B6",
-    "clear G6",
-    "flag H6",
-    "clear E7",
-    "clear F7",
-    "clear G7",
-    "clear H7",
-    "flag E7",
-    "clear C7",
-    "clear B7",
-    "clear A6"
-  ]
+  "commands": []
 }
